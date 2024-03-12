@@ -1,11 +1,9 @@
-[
-{
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.honda.mybrandapp",
     "sha256_cert_fingerprints":
-   ["E8:A4:42:26:77:6D:F1:D9:0B:58:9C:E5:F4:9D:B3:CB:25:B0:AB:68:C5:63:97:EC:DB:79:1C:12:BD:98:FC:9D"]
+    ["E8:A4:42:26:77:6D:F1:D9:0B:58:9C:E5:F4:9D:B3:CB:25:B0:AB:68:C5:63:97:EC:DB:79:1C:12:BD:98:FC:9D"]
   }
-}
-  ]
+}]
